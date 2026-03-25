@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://odettedoxa.github.io/</loc>
   </url>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://odettedoxa.github.io/</loc>
+  </url>
+>>>>>>> f1356a6c23ad897f7e31869244f899b3740b9a41
 </urlset>
